@@ -11,7 +11,21 @@
 
 ## ROADMAP
 
-******** a editar ********
+### Introdução
+1. O que é SEO
+2. História
+
+### Começando a trabalhar o SEO
+1. Ferramentas básicas de SEO
+2. Keyword Research
+3. Trabalhando o HTML
+4. Trabalhando o texto
+5. Trabalhando o Design
+
+### Expert
+1. Link Building
+2. Links Patrocinados
+3. Detalhes Técnicos
 
 ## Como Contribuir
 
